@@ -9,7 +9,7 @@ Build OpenWrt for Xiaomi Redmi AC2100 using GitHub Actions
 
 ## 直接食用
 
-- 请前往 [Releases](https://github.com/harryhpxs/OpenWrt-RM2100/releases) 下载最新固件
+请前往 [Releases](https://github.com/harryhpxs/OpenWrt-RM2100/releases) 下载最新固件
 
 ## 本固件包含
 
